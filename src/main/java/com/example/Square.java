@@ -13,4 +13,7 @@ public class Square implements Shape {
         return Math.pow(getLength(), 2);
     }
 
+    public void setLength(int i) {
+    }
+
 }
